@@ -451,7 +451,7 @@ header .fa-bars{
     width: 5rem;
     line-height: 5rem;
     font-size: 2rem;
-    background-color:var(--main-color);
+    background-color:var(--pink);
     color: var(--black);
     border-radius: .5rem;
     text-align: center;
